@@ -31,15 +31,20 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Deep-ghosty&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Deep-ghosty&theme=slateorange&hide_border=false)<br/>
+[![Deepanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deep-ghosty)](https://github.com/Deep-ghosty/github-readme-stats)
+
+
+![Deepanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deep-ghosty&show_icons=true&theme=transparent)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deep-ghosty)](https://github.com/Deep-ghosty/github-readme-stats)
+
 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Deep-ghosty&theme=alduin&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@Deepans62839955)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<a href="https://quine.sh/profile/Deep-Ghosty"><img src="https://stats.quine.sh/Deep-Ghosty/github" alt="Deep-Ghosty's GitHub stats" width="840px"></a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
@@ -47,4 +52,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Deep-ghosty&icon=5&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Python](https://img.shields.io/badge/Python-80%25-brightgreen) ![C](https://img.shields.io/badge/C-65%25-brightgreen) ![AI](https://img.shields.io/badge/AI-YES-red) ![ML](https://img.shields.io/badge/ML-YES-red)
+
