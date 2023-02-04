@@ -2,9 +2,10 @@
 
 <h3 align="center">An App developer from India</h3>
 
-# 💫 About Me:
+# 💫 About Me: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     ![Gif description](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
-- 🔭 I’m currently working in **Kotlin Development**
+
+- 🔭 I’m currently working in **Kotlin Development**  
 
 - 🌱 I’m currently learning **web development**
 
@@ -43,7 +44,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deep-ghosty)](https://github.com/Deep-ghosty/github-readme-stats)
 
+<h2>
+  <a href="#">My Contribution Chart 💹</a>
+</h2>
 
+![snake gif](https://github.com/Deep-ghosty/Deep-ghosty/blob/output/github-contribution-grid-snake.gif)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Deep-ghosty&theme=alduin&no-frame=false&no-bg=false&margin-w=4)
