@@ -1,8 +1,8 @@
 <h1 align="center"> Hey There! I'm Deepanshu Bisht <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<h3 align="center">An App developer from India</h3>
+<h3 align="center">&nbsp;An App developer from India</h3>
 
-# 💫 About Me: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     ![Gif description](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+# 💫 About Me: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Gif description](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
 
 - 🔭 I’m currently working in **Kotlin Development**  
