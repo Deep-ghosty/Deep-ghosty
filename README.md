@@ -58,4 +58,3 @@
 
 
 
-<a data-pin-do="embedPin" href="https://www.pinterest.com/pin/359865826460057563" data-pin-width="large" ></a><script async type="text/javascript" src="https://assets.pinterest.com/js/pinit.js"></script>
