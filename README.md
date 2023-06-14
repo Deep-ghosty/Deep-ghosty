@@ -4,7 +4,7 @@
 
 # 💫 About Me: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Gif description](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
-- 🔭 I’m currently working in **Kotlin Development**  
+- 🔭 I’m currently working in **Python Development**  
 
 - 🌱 I’m currently learning **web development**
 
