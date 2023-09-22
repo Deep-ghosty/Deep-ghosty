@@ -56,5 +56,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Deep-ghosty&icon=5&color=8)](https://visitcount.itsvg.in)
 
+<p align="center">
+    <h3 align="center"> Show some ❤️ by starring some of the repositories!!!</h3>
+ </p>
 
+<img align="center" src="https://github.com/anotherwebguy/anotherwebguy/blob/main/footer.png" />
 
