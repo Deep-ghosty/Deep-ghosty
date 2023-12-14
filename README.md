@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **deepanshubisht664@gmail.com**
 
-- 📄 Know about my experiences [Link Text](https://drive.google.com/file/d/1NzlrRGmYbpd8Gbt_Bi_8Vr4vygY0RsW4/view?usp=sharing)
+- 📄 Know about my experiences [Resume📃](https://drive.google.com/file/d/1NzlrRGmYbpd8Gbt_Bi_8Vr4vygY0RsW4/view?usp=sharing)
 
 
 - ⚡ Fun fact **I think i m good with networking.**
